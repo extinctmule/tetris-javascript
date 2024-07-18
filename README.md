@@ -1,2 +1,2 @@
 # tetris-javascript
-Just simple javascript tetris game
+Just a simple javascript tetris game
